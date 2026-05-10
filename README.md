@@ -1,16 +1,27 @@
-## Hi there 👋
+# Gabriel Nieton Braz
 
-<!--
-**Uriik/Uriik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on backend development, distributed systems and cloud architecture.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET
+- Java / Spring Boot
+- Kafka
+- AWS
+- Terraform
+- Angular / TypeScript
+- REST APIs
+- Microservices
+- CI/CD
+
+## Interests
+
+- Distributed Systems
+- Cloud Architecture
+- Event-Driven Architecture
+- Generative AI
+- Backend Engineering
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/gabriel-nieton-braz-5727b11b3
