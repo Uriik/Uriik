@@ -1,4 +1,4 @@
-```md
+```markdown
 <h1 align="center">Gabriel Nieton Braz</h1>
 
 <p align="center">
