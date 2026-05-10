@@ -78,14 +78,6 @@ Here are some areas I’m currently exploring and building:
 
 ---
 
-## GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uriik&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uriik&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nieton-braz-5727b11b3/)
