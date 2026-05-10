@@ -1,4 +1,3 @@
-```markdown
 # Gabriel Nieton Braz
 
 Software Engineer focused on Backend Engineering, Distributed Systems, Cloud Architecture and Scalable Applications.
@@ -90,4 +89,4 @@ Here are some areas I’m currently exploring and building:
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nieton-braz-5727b11b3/)
-```
+
